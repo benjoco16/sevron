@@ -513,8 +513,15 @@ span.small_pt {
     font-size:10px;
 }
 
-
-
+/** Risk Assesment **/
+.border_red {
+    border: 1px solid red;
+}
+.bgwhite {
+    background-color: #fff;
+    padding: 10px 20px;
+    margin: 10px 20px;
+}
 @media (min-width: 1025px) {
     .kt-subheader {
         margin-top: 25px;

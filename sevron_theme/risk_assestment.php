@@ -49,18 +49,21 @@
     <link href="./assets/vendors/custom/vendors/flaticon/flaticon.css" rel="stylesheet" type="text/css" />
     <link href="./assets/vendors/custom/vendors/flaticon2/flaticon.css" rel="stylesheet" type="text/css" />
     <link href="./assets/vendors/general/@fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css" />
+    <link href="./assets/css/global/components.min.css" rel="stylesheet" type="text/css" />
+    <link href="./assets/css/global/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jstree/3.2.1/themes/default/style.min.css" />
     <!--end:: Global Optional Vendors -->
 
     <!--begin::Global Theme Styles(used by all pages) -->                 
-        <link href="./assets/css/demo11/style.bundle.css" rel="stylesheet" type="text/css" />
+    <link href="./assets/css/demo11/style.bundle.css" rel="stylesheet" type="text/css"/>
+
     <!--end::Global Theme Styles -->
     <link href="./assets/css/custom.css" rel="stylesheet" type="text/css" />
-            <!--begin::Layout Skins(used by all pages) -->
-                    <!--end::Layout Skins -->
+    <!--begin::Layout Skins(used by all pages) -->
+    <!--end::Layout Skins -->
 
-            <link rel="shortcut icon" href="./assets/media/logos/favicon.ico" />
-        </head>
+    <link rel="shortcut icon" href="./assets/media/logos/favicon.ico" />
+</head>
         <!-- end::Head -->
 
         <!-- begin::Body -->
@@ -98,22 +101,21 @@
             </div>
             <!-- end:: Brand -->		
 
-    <!-- begin:: Header Topbar -->
-    <div class="kt-header__topbar">
-        <!--begin: Search -->
-        <div class="kt-header__topbar-item kt-header__topbar-item--search dropdown"  id="kt_quick_search_toggle">
+            <!-- begin:: Header Topbar -->
+            <div class="kt-header__topbar">
+                <!--begin: Search -->
+                <div class="kt-header__topbar-item kt-header__topbar-item--search dropdown"  id="kt_quick_search_toggle">
 
-            <div class="dropdown-menu dropdown-menu-fit dropdown-menu-right dropdown-menu-anim dropdown-menu-lg">
-                <div class="kt-quick-search kt-quick-search--dropdown kt-quick-search--result-compact" id="kt_quick_search_dropdown">
-        <form method="get" class="kt-quick-search__form">
-            <div class="input-group">
-                <div class="input-group-prepend"><span class="input-group-text"><i class="flaticon2-search-1"></i></span></div>
-                <input type="text" class="form-control kt-quick-search__input" placeholder="Search...">
-                <div class="input-group-append"><span class="input-group-text"><i class="la la-close kt-quick-search__close"></i></span></div>
+                    <div class="dropdown-menu dropdown-menu-fit dropdown-menu-right dropdown-menu-anim dropdown-menu-lg">
+                        <div class="kt-quick-search kt-quick-search--dropdown kt-quick-search--result-compact" id="kt_quick_search_dropdown">
+                    <form method="get" class="kt-quick-search__form">
+                        <div class="input-group">
+                            <div class="input-group-prepend"><span class="input-group-text"><i class="flaticon2-search-1"></i></span></div>
+                            <input type="text" class="form-control kt-quick-search__input" placeholder="Search...">
+                            <div class="input-group-append"><span class="input-group-text"><i class="la la-close kt-quick-search__close"></i></span></div>
+                        </div>
+                    </form>
             </div>
-        </form>
-
-    </div>
 		</div>
 	</div>
 	<!--end: Search -->
@@ -521,15 +523,15 @@
 			<form>
                 <!-- begin:: Mycart -->
 <div class="kt-mycart">
-            <div class="kt-mycart__head kt-head" style="background-image: url(./assets/media/misc/bg-1.jpg);">
-            <div class="kt-mycart__info">
-                <span class="kt-mycart__icon"><i class="flaticon2-shopping-cart-1 kt-font-success"></i></span>
-                <h3 class="kt-mycart__title">My Cart</h3>
-            </div> 
-            <div class="kt-mycart__button">
-                <button type="button" class="btn btn-success btn-sm" style=" ">2 Items</button>
-            </div>                
-        </div>        
+        <div class="kt-mycart__head kt-head" style="background-image: url(./assets/media/misc/bg-1.jpg);">
+        <div class="kt-mycart__info">
+            <span class="kt-mycart__icon"><i class="flaticon2-shopping-cart-1 kt-font-success"></i></span>
+            <h3 class="kt-mycart__title">My Cart</h3>
+        </div> 
+        <div class="kt-mycart__button">
+            <button type="button" class="btn btn-success btn-sm" style=" ">2 Items</button>
+        </div>                
+    </div>        
     
     <div class="kt-mycart__body kt-scroll" data-scroll="true" data-height="245" data-mobile-height="200">
         <div class="kt-mycart__item">
@@ -654,7 +656,8 @@
         </div>
     </div>
 </div>
-<!-- end:: Mycart -->            </form>
+<!-- end:: Mycart -->            
+</form>
 		</div>
 	</div>
 	<!--end: Cart-->
@@ -945,16 +948,7 @@
                 </div>
             <!-- End Create New Button -->
 
-            <!-- Start Dashboard Options button -->
-            <div class="kt-header__brand-nav">
-                    <div class="dropdown">
-                        <button type="button" class="btn btn-secondary btn-wide dopti" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
-                            Dashboard Options
-                        </button>
-                        
-                    </div>
-                </div>
-            <!-- End Dashboard Options Button -->
+            
         </div>
         <div class="kt-subheader__toolbar">
             <div class="kt-subheader__wrapper">
@@ -969,105 +963,38 @@
 <!-- end:: Subheader -->
 
 <!-- begin:: Content -->
-	<div class="kt-container  kt-container--fluid  kt-grid__item kt-grid__item--fluid">
-		<!--Begin::Dashboard 4-->
-        <!--Begin::Row-->
-        <div class="row">
-            <!-- Start Banner Section -->
-            
-            <div class="main_banner">
-                <div class="row">
-                    <div class="col-xl-6">
-                        <div class="ban_text">
-                            <p>COSHH COMPLIANCE</p>
-                            <h2>How Compliant Are you?</h2>
-                            <div class="score_hldr">85.5%</div>
-                            
-                            <div class="top_list">
-                                <h4>Top 3 Ways To Improve Your Score...</h4>
-                                <ul>
-                                    <li> <span class="kt-badge kt-badge--red kt-badge--dot"></span>  Review Critical Sds Update <strong>+100PTS</strong></li>
-                                    <li> <span class="kt-badge kt-badge--yellow kt-badge--dot"></span>  Clear Overue Actions <strong>+18 PTS</strong></li>
-                                    <li> <span class="kt-badge kt-badge--yellow kt-badge--dot"></span>  Add Missing Environmental <strong>Controls +16PTS</strong></li>
-                                </ul>
-                                <div class="ban_bt">
-                                    <button type="button" data-toggle="modal" href="#large" class="btn btn-secondary btn-lg bt-color-gray">View All</button> <span>Your compliance score has not <br> change since: <strong>Aug 29, 2019</strong> </span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-6 image_dashboard">
-                       <!--<img src="./assets/media/dashboard/banner_score.jpg" alt=""/>-->
-                        <div id="banner-chart-container"></div>
-                    </div>
+	<div class="kt-container kt-container--fluid kt-grid__item kt-grid__item--fluid">
+        <div class="m-grid">
+            <div class="m-grid-row">
+                <div class="m-grid-col m-grid-col-middle m-grid-col-left m-grid-col-md-9 border_red bgwhite">
+                    <?php include('template/risk/r_first_section.php')?>
+                </div>
+                <div class="m-grid-col m-grid-col-middle m-grid-col-center m-grid-col-md-3 border_red">
+                    Right
                 </div>
             </div>
-            
-            <!-- End Banner Section -->
-            
-           
-            
         </div>
-        
-        <!--End::Row-->	
-        <div class="second_section"> 
-            <div class="row">
-             <?php include ('template/home_template/list_box.php'); ?>
-            </div>
-        </div>
-        
-        <div class="third_section">
-            <!--Begin::Row-->
-            <div class="row">
-             <?php include ('template/home_template/third_section.php'); ?>
-            </div>
-            <!--End::Row-->
-        </div>
-        
-        <div class="fourth_section">
-            <!--Begin::Row-->
-            <div class="row">
-             <?php include ('template/home_template/fourth-section.php'); ?>
-            </div>
-            <!--End::Row-->
-        </div>
-
-        <div class="fifth_section">
-            <!--Begin::Row-->
-            <div class="row">
-             <?php include ('template/home_template/fifth-section.php'); ?>
-            </div>
-            <!--End::Row-->
-        </div>
-        
-        <!-- modal -->
-        <?php include('template/home_modal.php')?>
-        <!-- end modal -->
-        
-        <!--Begin::Row-->
-	
-</div>	
-
+    </div>	
 <!-- end of update dev -->
 	
 									
 <!--ENd:: Chat-->
-        <!-- begin::Global Config(global config for global JS sciprts) -->
-        <script>
-            var KTAppOptions = {"colors":{"state":{"brand":"#5d78ff","light":"#ffffff","dark":"#282a3c","primary":"#5867dd","success":"#34bfa3","info":"#36a3f7","warning":"#ffb822","danger":"#fd3995"},"base":{"label":["#c5cbe3","#a1a8c3","#3d4465","#3e4466"],"shape":["#f0f3ff","#d9dffa","#afb4d4","#646c9a"]}}};
-        </script>
-        <!-- end::Global Config -->
+<!-- begin::Global Config(global config for global JS sciprts) -->
+<script>
+    var KTAppOptions = {"colors":{"state":{"brand":"#5d78ff","light":"#ffffff","dark":"#282a3c","primary":"#5867dd","success":"#34bfa3","info":"#36a3f7","warning":"#ffb822","danger":"#fd3995"},"base":{"label":["#c5cbe3","#a1a8c3","#3d4465","#3e4466"],"shape":["#f0f3ff","#d9dffa","#afb4d4","#646c9a"]}}};
+</script>
+<!-- end::Global Config -->
 
-    	<!--begin:: Global Mandatory Vendors -->
-        <script src="./assets/vendors/general/jquery/dist/jquery.js" type="text/javascript"></script>
-        <script src="./assets/vendors/general/popper.js/dist/umd/popper.js" type="text/javascript"></script>
-        <script src="./assets/vendors/general/bootstrap/dist/js/bootstrap.min.js" type="text/javascript"></script>
-        <script src="./assets/vendors/general/js-cookie/src/js.cookie.js" type="text/javascript"></script>
-        <script src="./assets/vendors/general/moment/min/moment.min.js" type="text/javascript"></script>
-        <script src="./assets/vendors/general/tooltip.js/dist/umd/tooltip.min.js" type="text/javascript"></script>
-        <script src="./assets/vendors/general/perfect-scrollbar/dist/perfect-scrollbar.js" type="text/javascript"></script>
-        <script src="./assets/vendors/general/sticky-js/dist/sticky.min.js" type="text/javascript"></script>
-        <script src="./assets/vendors/general/wnumb/wNumb.js" type="text/javascript"></script>
+<!--begin:: Global Mandatory Vendors -->
+<script src="./assets/vendors/general/jquery/dist/jquery.js" type="text/javascript"></script>
+<script src="./assets/vendors/general/popper.js/dist/umd/popper.js" type="text/javascript"></script>
+<script src="./assets/vendors/general/bootstrap/dist/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="./assets/vendors/general/js-cookie/src/js.cookie.js" type="text/javascript"></script>
+<script src="./assets/vendors/general/moment/min/moment.min.js" type="text/javascript"></script>
+<script src="./assets/vendors/general/tooltip.js/dist/umd/tooltip.min.js" type="text/javascript"></script>
+<script src="./assets/vendors/general/perfect-scrollbar/dist/perfect-scrollbar.js" type="text/javascript"></script>
+<script src="./assets/vendors/general/sticky-js/dist/sticky.min.js" type="text/javascript"></script>
+<script src="./assets/vendors/general/wnumb/wNumb.js" type="text/javascript"></script>
 <!--end:: Global Mandatory Vendors -->
 
 <!--begin:: Global Optional Vendors -->
@@ -1130,31 +1057,31 @@
 
 <!--begin::Global Theme Bundle(used by all pages) -->
     	    	   
-		    	   <script src="./assets/js/demo11/scripts.bundle.js" type="text/javascript"></script>
-				<!--end::Global Theme Bundle -->
+<script src="./assets/js/demo11/scripts.bundle.js" type="text/javascript"></script>
+<!--end::Global Theme Bundle -->
 
-                    <!--begin::Page Vendors(used by this page) -->
-                        <script src="./assets/vendors/custom/fullcalendar/fullcalendar.bundle.js" type="text/javascript"></script>
-                        <script src="//maps.google.com/maps/api/js?key=AIzaSyBTGnKT7dt597vo9QgeQ7BFhvSRP4eiMSM" type="text/javascript"></script>
-                        <script src="./assets/vendors/custom/gmaps/gmaps.js" type="text/javascript"></script>
-                    <!--end::Page Vendors -->
-         
-                    <!--begin::Page Scripts(used by this page) -->
-                        <script src="./assets/js/demo11/pages/dashboard.js" type="text/javascript"></script>
-                    <!--end::Page Scripts -->
+<!--begin::Page Vendors(used by this page) -->
+    <script src="./assets/vendors/custom/fullcalendar/fullcalendar.bundle.js" type="text/javascript"></script>
+    <script src="//maps.google.com/maps/api/js?key=AIzaSyBTGnKT7dt597vo9QgeQ7BFhvSRP4eiMSM" type="text/javascript"></script>
+    <script src="./assets/vendors/custom/gmaps/gmaps.js" type="text/javascript"></script>
+<!--end::Page Vendors -->
 
-                     <!--begin::Page Scripts(used by this page) -->
-                        <script src="./assets/js/demo12/pages/components/calendar/basic.js" type="text/javascript"></script>
-                    <!--end::Page Scripts -->
+<!--begin::Page Scripts(used by this page) -->
+    <script src="./assets/js/demo11/pages/dashboard.js" type="text/javascript"></script>
+<!--end::Page Scripts -->
 
-                     <!--begin::Page Scripts(used by this page) -->
-                     
-                    <script type="text/javascript" src="./assets/js/custom/fusioncharts.js"></script>
-                    <script type="text/javascript" src="./assets/js/custom/fusioncharts.theme.fint.js?cacheBust=56"></script>
-                    <script src="https://code.highcharts.com/highcharts.js"></script>
-                    <script src="https://code.highcharts.com/modules/exporting.js"></script>
-                    <script src="https://code.highcharts.com/modules/export-data.js"></script>
-                    <script src="https://cdnjs.cloudflare.com/ajax/libs/jstree/3.2.1/jstree.min.js"></script>
+    <!--begin::Page Scripts(used by this page) -->
+    <script src="./assets/js/demo12/pages/components/calendar/basic.js" type="text/javascript"></script>
+<!--end::Page Scripts -->
+
+    <!--begin::Page Scripts(used by this page) -->
+    
+<script type="text/javascript" src="./assets/js/custom/fusioncharts.js"></script>
+<script type="text/javascript" src="./assets/js/custom/fusioncharts.theme.fint.js?cacheBust=56"></script>
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+<script src="https://code.highcharts.com/modules/export-data.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jstree/3.2.1/jstree.min.js"></script>
 
                     
 
