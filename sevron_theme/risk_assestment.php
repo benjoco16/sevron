@@ -51,6 +51,8 @@
     <link href="./assets/vendors/general/@fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css" />
     <link href="./assets/css/global/components.min.css" rel="stylesheet" type="text/css" />
     <link href="./assets/css/global/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="./assets/css/global/plugins.min.css" rel="stylesheet" type="text/css" />
+    <link href="./assets/css/global/bootstrap-tagsinput.css" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jstree/3.2.1/themes/default/style.min.css" />
     <!--end:: Global Optional Vendors -->
 
@@ -1082,10 +1084,10 @@
 <script src="https://code.highcharts.com/modules/exporting.js"></script>
 <script src="https://code.highcharts.com/modules/export-data.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jstree/3.2.1/jstree.min.js"></script>
-
+<script src="./assets/js/custom/bootstrap-tagsinput.min.js" type="text/javascript"></script>
                     
 
-                     <script src="./assets/js/custom/custom.js" type="text/javascript"></script>
+<script src="./assets/js/custom/custom.js" type="text/javascript"></script>
                     <!--end::Page Scripts -->
             </body>
     <!-- end::Body -->

@@ -8257,6 +8257,7 @@ a.text-dark:hover, a.text-dark:focus {
     -webkit-font-smoothing: antialiased;
     font-smoothing: antialiased;
     content: "";
+    content: &#xf272;
     color: #5d78ff; }
   .accordion.accordion-toggle-arrow .card .card-header .card-title.collapsed {
     color: #74788d; }
