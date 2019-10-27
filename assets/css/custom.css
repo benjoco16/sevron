@@ -1,3 +1,4 @@
+
 body {
     background: #fafafa;
 }
@@ -637,8 +638,9 @@ span.small_pt {
 }
 
 .rs-actions .tag .badge {
-    padding: 3px;
-    width: 15px;
+    padding: 1px 0 0 0;
+    width: 18px;
+    line-height: 17px;
     max-width: 100px;
     margin-left: 0 !important;
 }
@@ -706,6 +708,7 @@ span.small_pt {
     border-radius: 5px !important;
     border-color: #e2e5ec;
     box-shadow: none;
+    width: 100%;
 }
 
 .bootstrap-tagsinput .tag {
@@ -782,4 +785,30 @@ span.small_pt {
 
 .bg-light-blue {
     background: #e4f0f8;
+}
+
+/** Substance Accordion **/
+.si_section {
+    border: 1px solid #ebedf2;
+    margin: 10px;
+    padding: 10px 0;
+    border-radius: 12px;
+    -moz-border-radius: 12px;
+    -webkit-border-radius: 12px;
+    -o-border-radius: 12px;
+}
+.table_si tr td {
+    border-top: 0 !important;
+    padding: 13px 10px !important;
+}
+.table_si tr:nth-child(even) {
+    background-color: #f4fbff;
+}
+.table_si tr td a {
+    color: #30a4f0;
+}
+.haz {
+    background-color: #e2e2e2;
+    padding: 15px !important;
+    text-align: center;
 }
