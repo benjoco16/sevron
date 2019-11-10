@@ -1,8 +1,8 @@
-<div class="col-xl-4 col-lg-6 order-lg-1 order-xl-1 "> 
+<div class="col-xl-4 col-md-6 order-lg-1 order-xl-1 "> 
     <div class="kt-portlet">
         <div class="kt-portlet__head">
             <div class="kt-portlet__head-label">
-                <p class="font-ash d-flex align-items-center w-100 font-weight-500 mb-0 pr-3">
+                <p class="font-ash d-flex align-items-center w-100 font-weight-500 bold mb-0 pr-3">
                     <img src="./assets/media/dashboard/calendar.svg" class="mr-2" width="13" alt="">
                     Daily Tasks <i class="fa fa-question-circle font-gray ml-2" data-toggle="kt-tooltip" data-placement="right" title="" data-original-title="Sevron Information Here"></i>
                 </p>
@@ -19,7 +19,7 @@
     <div class="kt-portlet kt-portlet--head--noborder kt-portlet--height-fluid">
         <div class="kt-portlet__head">
             <div class="kt-portlet__head-label">
-                <p class="font-ash d-flex align-items-center w-100 font-weight-500 mb-0 pr-3">
+                <p class="font-ash d-flex align-items-center w-100 font-weight-500 bold mb-0 pr-3">
                     <img src="./assets/media/dashboard/load-balancer.svg" class="mr-2" width="14" alt=""> 
                     Organisation Structure <i class="fa fa-question-circle font-gray ml-2" data-toggle="kt-tooltip" data-placement="right" title="" data-original-title="Sevron Information Here"></i>
                 </p>
@@ -27,7 +27,7 @@
         </div>
         <div class="kt-portlet__body os_section">
             <div class="row">
-                <div class="col-6">
+                <div class="col-md-6 col-sm-12">
                         <div id="stree">
                             <ul>
                                 <li class="jstree-open" data-jstree='{ "icon":"fa fa-bookmark red" }'>
@@ -43,7 +43,7 @@
                             </ul>
                         </div>
                 </div>
-                <div class="col-6">
+                <div class="col-md-6 col-sm-12">
                     <div class="notice">
                         <ul>
                             <li><img src="./assets/media/dashboard/checkmark-outline.svg" height="15" alt=""/> Fully Compliant</li>

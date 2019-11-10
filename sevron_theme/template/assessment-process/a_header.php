@@ -2,8 +2,8 @@
         <!-- begin:: Header Mobile -->
         <div id="kt_header_mobile" class="kt-header-mobile  kt-header-mobile--fixed " >
         <div class="kt-header-mobile__logo">
-            <a href="demo11/index.html">
-                <img alt="Logo" src="./assets/media/logos/logo-11-sm.png"/>
+            <a href="/sevron/sevron_theme/assessment-process.php">
+                <img alt="Logo" src="./assets/media/logos/logo-mobile.png" style="max-width: 40px"/>    
             </a>
         </div>
         <div class="kt-header-mobile__toolbar">
@@ -18,7 +18,7 @@
                 <div class="kt-grid__item kt-grid__item--fluid kt-grid kt-grid--hor kt-wrapper" id="kt_wrapper">
                     <!-- begin:: Header -->
     <div id="kt_header" class="kt-header kt-grid__item  kt-header--fixed "  data-ktheader-minimize="on" >
-        <div class="kt-container  kt-container--fluid ">
+        <div class="kt-container  kt-container--fluid pr-0">
             <!-- begin:: Brand -->
             <div class="kt-header__brand " id="kt_header_brand">
                 <div class="kt-header__brand-logo">

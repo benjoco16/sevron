@@ -1,21 +1,19 @@
-<div class="row pt-4 pb-0 pl-4 pr-4">
-    <div class="col-md-4">
+<div class="col-lg-4 col-md-6">
         <div class="kt-portlet">
             <div class="kt-portlet__head">
                 <div class="kt-portlet__head-label">
                     <p class="font-ash d-flex align-items-center font-weight-500 mb-0">
                         <img src="./assets/media/dashboard/icon1.svg" class="mr-3" width="13" alt="">
-                        Not2Great Supplier Ltd
+                        Not2Great Supplier Ltd 
                     </p>
                 </div>
             </div>
             <div class="kt-portlet__body">
-                <div class="row align-items-center">
-                    <div class="col-md-4">
-                        <img src="assets/media/dashboard/result.jpg">
-                    </div>
+                <div class="d-flex align-items-center">
+                    
+                    <div class="gear-chart" id="banner-chart-container-2"></div>
 
-                    <div class="col-md-8">
+                    <div class="w-100">
                         <div class="d-flex align-items-center">
                             <div class="mr-3">
                                 <p class="dashboard-min-label">
@@ -99,7 +97,7 @@
         </div>
     </div>
 
-    <div class="col-md-4">
+    <div class="col-lg-4 col-md-6">
         <div class="kt-portlet">
             <div class="kt-portlet__head">
                 <div class="kt-portlet__head-label">
@@ -110,12 +108,10 @@
                 </div>
             </div>
             <div class="kt-portlet__body">
-                <div class="row align-items-center">
-                    <div class="col-md-4">
-                        <img src="assets/media/dashboard/result3.jpg">
-                    </div>
+                <div class="d-flex align-items-center">
+                    <div class="gear-chart" id="banner-chart-container-3"></div>
 
-                    <div class="col-md-8">
+                    <div class="w-100">
                         <div class="d-flex align-items-center">
                             <div class="mr-3">
                                 <p class="dashboard-min-label">
@@ -199,7 +195,7 @@
         </div>
     </div>
 
-    <div class="col-md-4">
+    <div class="col-lg-4 col-md-6">
         <div class="kt-portlet">
             <div class="kt-portlet__head">
                 <div class="kt-portlet__head-label">
@@ -210,12 +206,9 @@
                 </div>
             </div>
             <div class="kt-portlet__body">
-                <div class="row align-items-center">
-                    <div class="col-md-4">
-                        <img src="assets/media/dashboard/result3.jpg">
-                    </div>
-
-                    <div class="col-md-8">
+                <div class="d-flex align-items-center">
+                    <div class="gear-chart" id="banner-chart-container-4"></div>
+                    <div class="w-100">
                         <div class="d-flex align-items-center">
                             <div class="mr-3">
                                 <p class="dashboard-min-label">
@@ -298,4 +291,3 @@
             </div>
         </div>
     </div>
-</div>
