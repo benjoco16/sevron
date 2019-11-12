@@ -57,6 +57,10 @@
                         </button>
                     </div>
                 </div>
+<<<<<<< HEAD
+=======
+                <!-- <div style="width: 150px" id="banner-chart-container-1"></div> -->
+>>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
             </div>
 
             <div class="kt-portlet__foot font-ash pt-3 pb-3 d-flex align-items-center">
@@ -154,6 +158,10 @@
                         </button>
                     </div>
                 </div>
+<<<<<<< HEAD
+=======
+                <!-- <div style="width: 150px" id="banner-chart-container-1"></div> -->
+>>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
             </div>
 
             <div class="kt-portlet__foot font-ash pt-3 pb-3 d-flex align-items-center">
@@ -250,6 +258,10 @@
                         </button>
                     </div>
                 </div>
+<<<<<<< HEAD
+=======
+                <!-- <div style="width: 150px" id="banner-chart-container-1"></div> -->
+>>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
             </div>
 
             <div class="kt-portlet__foot font-ash pt-3 pb-3 d-flex align-items-center">

@@ -26,19 +26,33 @@
                 </div>
             </div>
             <div class="form-group row">
+<<<<<<< HEAD
                 <label class="col-md-3 col-form-label">Assessed on</label>
                 <div class="col-md-9">
                     <div class="row">
                         <div class="col-md-5">
+=======
+                <label class="col-3 col-form-label">Assessed on</label>
+                <div class="col-9">
+                    <div class="row">
+                        <div class="col-5">
+>>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
                             <div class="input-icon">
                                 <i class="fa fa-calendar"></i>
                                 <input type="date" class="form-control" placeholder="Left icon">
                             </div>
                         </div>
+<<<<<<< HEAD
                         <div class="col-md-7">
                             <div class="form-group mb-0 row">
                                 <label class="col-sm-2 col-lg-2 col-form-label">By</label>
                                 <div class="col-sm-10 col-lg-10">
+=======
+                        <div class="col-7">
+                            <div class="form-group mb-0 row">
+                                <label class="col-2 col-form-label">By</label>
+                                <div class="col-10">
+>>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
                                     <input type="text" value="Watson Towers" data-role="tagsinput" />   
                                 </div>
                             </div>
@@ -47,19 +61,33 @@
                 </div>
             </div>
             <div class="form-group row">
+<<<<<<< HEAD
                 <label class="col-md-3 col-form-label">Review date</label>
                 <div class="col-md-9">
                     <div class="row">
                         <div class="col-md-5">
+=======
+                <label class="col-3 col-form-label">Review date</label>
+                <div class="col-9">
+                    <div class="row">
+                        <div class="col-5">
+>>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
                             <div class="input-icon">
                                 <i class="fa fa-calendar"></i>
                                 <input type="date" class="form-control" placeholder="Left icon">
                             </div>
                         </div>
+<<<<<<< HEAD
                         <div class="col-md-7">
                             <div class="form-group mb-0 row">
                                 <label class="col-sm-4 col-lg-4 col-form-label">Reference no</label>
                                 <div class="col-sm-8 col-lg-8">
+=======
+                        <div class="col-7">
+                            <div class="form-group mb-0 row">
+                                <label class="col-5 col-form-label">Reference no</label>
+                                <div class="col-7 pl-0">
+>>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
                                     <input type="text" value="" class="form-control" />   
                                 </div>
                             </div>
@@ -69,6 +97,7 @@
             </div>
 
             <div class="form-group row">
+<<<<<<< HEAD
                 <label class="col-md-3 col-form-label">Signed By</label>
                 <div class="col-md-9">
                     <div class="row">
@@ -79,6 +108,18 @@
                             <div class="form-group mb-0 row">
                                 <label class="col-sm-4 col-lg-4 col-form-label">Revision no</label>
                                 <div class="col-sm-8 col-lg-8">
+=======
+                <label class="col-3 col-form-label">Signed By</label>
+                <div class="col-9">
+                    <div class="row">
+                        <div class="col-5">
+                            <input type="text" value="John Doe" data-role="tagsinput" /> 
+                        </div>
+                        <div class="col-7">
+                            <div class="form-group mb-0 row">
+                                <label class="col-5 col-form-label">Revision no</label>
+                                <div class="col-7 pl-0">
+>>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
                                     <input type="text" value="" class="form-control" />   
                                 </div>
                             </div>
@@ -86,14 +127,25 @@
                     </div>
                 </div>
             </div>
+<<<<<<< HEAD
             <div class="form-group row">
                 <label class="col-md-3 col-form-label">People Affected</label>
                 <div class="col-md-9">
+=======
+            
+            <div class="form-group row">
+                <label class="col-3 col-form-label">People Affected</label>
+                <div class="col-9">
+>>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
                     <input type="text" value="John Doe, Jane Doe" data-role="tagsinput" />                        
                 </div>
             </div>
         </div>
     </div>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
     <div class="col-md-4">
         <div class="rs-hazards">
             <h6>Hazards</h6>
@@ -106,8 +158,13 @@
             </div>
         </div>
         <div class="rs-hazards mt-5">
+<<<<<<< HEAD
             <h6>PPE <i class="fa fa-exclamation-circle font-blue" aria-hidden="true" data-toggle="kt-tooltip" data-placement="right" title="" data-original-title="Sevron Information Here"></i></h6>
 
+=======
+
+            <h6>PPE <i class="fa fa-exclamation-circle font-blue" aria-hidden="true" data-toggle="kt-tooltip" data-placement="right" title="" data-original-title="Sevron Information Here"></i></h6>
+>>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
             
             <div class="h_gal">
                 <img src="assets/media/risk/p1.png" alt="">

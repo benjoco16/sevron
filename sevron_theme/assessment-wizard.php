@@ -6,20 +6,38 @@
     </head>
 
     <body  class="kt-page-content-white kt-quick-panel--right kt-demo-panel--right kt-offcanvas-panel--right kt-header--fixed kt-header-mobile--fixed kt-subheader--enabled kt-subheader--transparent kt-aside--enabled kt-aside--fixed kt-page--loading"  >
+<<<<<<< HEAD
         <!--begin::Header -->
         <?php include('./global/header.php') ?>
         <!--end::Header -->
+=======
+        
+        <!--begin::Header -->
+        <?php include('./global/header.php') ?>
+        <!--end::Header -->
+        
+>>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
         <div class="kt-body kt-grid__item kt-grid__item--fluid kt-grid kt-grid--hor kt-grid--stretch" id="kt_body">
 			<div class="kt-container pl-0 kt-container--fluid  kt-grid kt-grid--ver">
                 <!--begin::Aside -->
                 <?php include('./global/sidebar.php') ?>
                 <!--end::Aside -->
+<<<<<<< HEAD
+=======
+                
+>>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
                 <div class="kt-content  kt-grid__item kt-grid__item--fluid kt-grid kt-grid--hor" id="kt_content">
                     <!--begin::Sub Header -->
                     <?php include('./template/assessment-wizard/aw-subheader.php') ?>
                     <!--end:: Sub Header -->
+<<<<<<< HEAD
                     <!-- begin::Page Content -->
                     <div class="kt-container kt-container--fluid kt-grid__item kt-grid__item--fluid pl-4 pr-4 pt-4 bg-light-blue">
+=======
+
+                    <!-- begin::Page Content -->
+                    <div class="kt-container kt-container--fluid kt-grid__item kt-grid__item--fluid pl-4 pr-4">
+>>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
                         <div class="row align-items-start">
                             <div class="col-md-10">
                                 <div class="kt-portlet kt-portlet--head--noborder kt-portlet--height-fluid">
@@ -49,6 +67,10 @@
                                     </div>
                                 </div>
                             </div>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
                             <div class="col-md-2">
                                 <div class="kt-portlet kt-portlet--head--noborder kt-portlet--height-fluid rs-actions">
                                     <div class="kt-portlet__body">
@@ -62,11 +84,21 @@
                 </div>
             </div>
         </div>
+<<<<<<< HEAD
+=======
+        
+>>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
         <!--begin::Page Scripts -->
         <?php include('./global/vendors.php') ?>
         <script src="./assets/js/custom/bootstrap-tagsinput.min.js" type="text/javascript"></script>
         <script src="http://cdnjs.cloudflare.com/ajax/libs/summernote/0.8.12/summernote.js"></script>
+<<<<<<< HEAD
         <script src="./assets/js/custom/risk-assessment.js" type="text/javascript"></script>
+=======
+        
+        <script src="./assets/js/custom/risk-assessment.js" type="text/javascript"></script>
+
+>>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
         <script>
             $(document).ready (function () {
                 $('#task1Textarea, #task2Textarea').summernote({

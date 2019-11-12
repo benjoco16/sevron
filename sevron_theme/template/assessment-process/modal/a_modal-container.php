@@ -12,14 +12,26 @@
                         <span>1</span>
                         <p>Find Substance</p>
                     </li>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
                     <li data-wizard-step="2" class="col-md-3">
                         <span>2</span>
                         <p>Internal Info</p>
                     </li>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
                     <li data-wizard-step="3" class="col-md-3">
                         <span>3</span>
                         <p>Usage</p>
                     </li>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
                     <li data-wizard-step="4" class="col-md-3">
                         <span>4</span>
                         <p>Regulation</p>

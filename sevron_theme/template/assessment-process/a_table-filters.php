@@ -66,7 +66,11 @@
             
         </div>
     </div>
+<<<<<<< HEAD
     <div class="tbl-filters__export-btn form-group form-group-sm mt-4">
+=======
+    <div class="form-group form-group-sm mt-4 ml-auto">
+>>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
         <div class="dropdown">
             <button type="button" class="btn btn-secondary btn-xs dropdown-toggle dopti font-weight-normal" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
                 Export

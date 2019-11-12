@@ -2,6 +2,7 @@
     <head>
         <?php include('global/head.php') ?>
         <link href="https://unpkg.com/video.js/dist/video-js.min.css" rel="stylesheet">
+<<<<<<< HEAD
         <script src="https://unpkg.com/video.js/dist/video.min.js"></script>
     </head>
 
@@ -9,15 +10,34 @@
         <!--begin::Header -->
         <?php include('./global/header.php') ?>
         <!--end::Header -->
+=======
+<script src="https://unpkg.com/video.js/dist/video.min.js"></script>
+    </head>
+
+    <body  class="kt-page-content-white kt-quick-panel--right kt-demo-panel--right kt-offcanvas-panel--right kt-header--fixed kt-header-mobile--fixed kt-subheader--enabled kt-subheader--transparent kt-aside--enabled kt-aside--fixed kt-page--loading"  >
+        
+        <!--begin::Header -->
+        <?php include('./global/header.php') ?>
+        <!--end::Header -->
+        
+>>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
         <div class="kt-body kt-grid__item kt-grid__item--fluid kt-grid kt-grid--hor kt-grid--stretch" id="kt_body">
 			<div class="kt-container pl-0 kt-container--fluid  kt-grid kt-grid--ver">
                 <!--begin::Aside -->
                 <?php include('./global/sidebar.php') ?>
                 <!--end::Aside -->
+<<<<<<< HEAD
+=======
+                
+>>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
                 <div class="kt-content  kt-grid__item kt-grid__item--fluid kt-grid kt-grid--hor" id="kt_content">
                     <!--begin::Sub Header -->
                     <?php include('./template/about/about-subheader.php') ?>
                     <!--end:: Sub Header -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
                     <!-- begin::Page Content -->
                     <div class="kt-container kt-container--fluid kt-grid__item kt-grid__item--fluid p-0 m-0">
                         <div class="about-video-wrapper">
@@ -33,6 +53,10 @@
                                 </video>
                             </div>
                         </div>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
                         <div class="row pl-3 pr-3 pt-5 pb-5 bg-white">
                             <div class="col-md-3">
                                 <img class="about-video-logo" src="assets/media/about/msds-icon.png">
@@ -51,6 +75,10 @@
         
         <!--begin::Page Scripts -->
         <?php include('./global/vendors.php') ?>
+<<<<<<< HEAD
+=======
+        
+>>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
         <!--end::Page Scripts -->
     </body>
 </html>

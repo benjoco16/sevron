@@ -3,7 +3,11 @@
         <div class="col-xl-6">
             <div class="ban_text">
                 <p>COSHH COMPLIANCE</p>
+<<<<<<< HEAD
                 <h2>How compliant are you?</h2>
+=======
+                <h2>How Compliant Are you?</h2>
+>>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
                 <div class="score_hldr">85.5%</div>
                 
                 <div class="top_list">
@@ -14,7 +18,11 @@
                         <li> <span class="kt-badge kt-badge--yellow kt-badge--dot"></span>  Add Missing Environmental <strong>Controls +16PTS</strong></li>
                     </ul>
                     <div class="ban_bt">
+<<<<<<< HEAD
                         <button type="button" data-toggle="modal" href="#large" class="btn btn-secondary btn-lg bt-color-gray">View all</button> <span>Your compliance score has not <br> change since: <strong>Aug 29, 2019</strong> </span>
+=======
+                        <button type="button" data-toggle="modal" href="#large" class="btn btn-secondary btn-lg bt-color-gray">View All</button> <span>Your compliance score has not <br> change since: <strong>Aug 29, 2019</strong> </span>
+>>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
                     </div>
                 </div>
             </div>
