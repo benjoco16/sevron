@@ -45,7 +45,6 @@
                             Step 5 - Review your assessment & update if needed
                         </p>
 
-<<<<<<< HEAD
                         <p class="font-weight-500 font-ash mt-4 mb-3">
                             Risk Ratings
                         </p>
@@ -53,39 +52,20 @@
                         <div class="row">
                             <div class="col-md-6 col-lg-4 d-flex align-items-center mb-3">
                                 <span class="risk-ratings-badge kt-badge kt-badge--lg kt-badge--rounded aw-low font-white pl-2 pr-2">
-=======
-                        <p class="font-weight-500 font-ash mt-4">
-                            Risk Ratings
-                        </p>
-
-                        <div class="d-flex align-items-center">
-                            <div class="d-flex align-items-center">
-                                <span class="kt-badge kt-badge--lg kt-badge--rounded pl-4 pr-4 w-auto aw-low font-white">
->>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
                                     1-5
                                 </span>
                                 <span class="font-weight-500 ml-3">Low</span>
                             </div>
 
-<<<<<<< HEAD
                             <div class="col-md-6 col-lg-4 d-flex align-items-center mb-3">
                                 <span class="risk-ratings-badge kt-badge kt-badge--lg kt-badge--rounded aw-medium font-white pl-2 pr-2">
-=======
-                            <div class="d-flex align-items-center ml-5">
-                                <span class="kt-badge kt-badge--lg kt-badge--rounded pl-4 pr-4 w-auto aw-medium font-white">
->>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
                                     6-12
                                 </span>
                                 <span class="font-weight-500 ml-3">Medium</span>
                             </div>
 
-<<<<<<< HEAD
                             <div class="col-md-6 col-lg-4 d-flex align-items-center mb-3">
                                 <span class="risk-ratings-badge kt-badge kt-badge--lg kt-badge--rounded aw-high font-white pl-2 pr-2">
-=======
-                            <div class="d-flex align-items-center ml-5">
-                                <span class="kt-badge kt-badge--lg kt-badge--rounded pl-4 pr-4 w-auto aw-high font-white">
->>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
                                     15-25
                                 </span>
                                 <span class="font-weight-500 ml-3">High</span>

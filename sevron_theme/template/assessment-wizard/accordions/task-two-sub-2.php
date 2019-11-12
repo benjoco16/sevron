@@ -17,7 +17,6 @@
                         <div class="kt-section">
                             <div class="kt-section__content">
                                 <table class="table table_si font-ash">
-<<<<<<< HEAD
                                     <thead>
                                         <tr>
                                             <td><strong> Product Name (Code)</strong></td>
@@ -26,14 +25,6 @@
                                         </tr>
                                     </thead>
                                     <tbody>
-=======
-                                    <tbody>
-                                        <tr>
-                                            <td class="font-weight-500">Product Name (Code)</td>
-                                            <td class="font-weight-500">Manufacturer</td>
-                                            <td class="font-weight-500">Hazard Symbols</td>
-                                        </tr>
->>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
                                         <tr>
                                             <td>Sodium (483745)</td>
                                             <td>Sigma-Aldrich Company Ltd</td>

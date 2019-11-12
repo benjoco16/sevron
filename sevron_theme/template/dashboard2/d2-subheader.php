@@ -2,7 +2,6 @@
 <div class="kt-subheader   kt-grid__item" id="kt_subheader">
     <div class="kt-container  kt-container--fluid pr-0">
         <div class="kt-subheader__main">
-<<<<<<< HEAD
             
         <!-- Start Create New button -->
             <div class="kt-header__brand-nav dashboard_bt">
@@ -11,12 +10,6 @@
                                 class="btn dropdown-toggle btn-lg btn-custom-blue" 
                                 data-toggle="dropdown"
                                 aria-haspopup="true">
-=======
-            <!-- Start Create New button -->
-            <div class="kt-header__brand-nav dashboard_bt">
-                    <div class="dropdown">
-                        <button type="button" class="btn dropdown-toggle btn-lg btn-custom-blue" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
->>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
                             Create New
                         </button>
                         <div class="dropdown-menu dropdown-menu-fit dropdown-menu-md">
@@ -30,11 +23,7 @@
                                 <li class="kt-nav__item">
                                     <a class="kt-nav__link" href="#">
                                         <span class="kt-nav__link-icon"><i class="flaticon-feed"></i></span>
-<<<<<<< HEAD
                                         <span class="kt-nav__link-text">Relationship</span>
-=======
-                                        <span class="kt-nav__link-text">er Relationship</span>
->>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
                                     </a>                                                 
                                 </li>
                                 <li class="kt-nav__item">
@@ -82,11 +71,7 @@
         <div class="kt-subheader__toolbar">
             <div class="kt-subheader__wrapper">
                     <a href="#" class="grad_bt">                       
-<<<<<<< HEAD
                        User Guide  <i class="fa fa-graduation-cap ml-2"></i>    
-=======
-                       User Guide  <i class="fa fa-graduation-cap"></i>    
->>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
                        <!--<img src="./assets/media/dashboard/userguid.svg">-->
                     </a>
             </div>

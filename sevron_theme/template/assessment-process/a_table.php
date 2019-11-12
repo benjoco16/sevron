@@ -79,7 +79,6 @@
                         </label>
                     </td>
                     <td>
-<<<<<<< HEAD
                         <div class="dropdown dropright">
                             <button data-toggle="dropdown" class=" btn btn-custom-blue btn-xs w-100">Actions</button>
                             <div class="dropdown-menu dropdown-dark-full dropdown-menu-fit dropdown-menu-right dropdown-menu-anim dropdown-menu-sm">
@@ -100,35 +99,6 @@
                                     Change Assessment Owner
                                 </a>
                             </div>
-=======
-                        <div class="popover-wrapper popover-1 popover-custom">
-                            <button data-container=".popover-1"
-                                class="popover-trigger btn btn-custom-blue btn-xs w-100 bnt-wide ml-auto" 
-                                data-toggle="kt-popover" 
-                                data-trigger="focus" 
-                                data-placement="left" 
-                                data-html="true"
-                                data-content='
-                                        <a class="popover-link" href="#">
-                                            <i class="flaticon2-edit font-yellow font-size-md"></i>
-                                            Edit Assessment
-                                        </a>
-                                        <a class="popover-link" href="#">
-                                            <i class="la la-file font-purple font-size-md" style=""></i>
-                                            Copy Assessment
-                                        </a>
-                                        <a class="popover-link" href="#">
-                                            <i class="fa fa-building font-blue font-size-md" style=""></i>
-                                            Archive Assessment
-                                        </a>
-                                        <a class="popover-link" href="#">
-                                            <i class="fa fa-user-alt font-neon-green font-size-md" style=""></i>
-                                            Change Assessment Owner
-                                        </a>
-                                '>
-                                    Actions
-                            </button>
->>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
                         </div>
                     </td>
                     <td class="ellipsed">This button links to the assessment</td>
@@ -149,7 +119,6 @@
                         </label>
                     </td>
                     <td>
-<<<<<<< HEAD
                         <div class="dropdown dropright">
                             <button data-toggle="dropdown" class=" btn btn-custom-blue btn-xs w-100">Actions</button>
                             <div class="dropdown-menu dropdown-dark-full dropdown-menu-fit dropdown-menu-right dropdown-menu-anim dropdown-menu-sm">
@@ -172,36 +141,6 @@
                             </div>
                         </div>
 
-=======
-                        <div class="popover-wrapper popover-1 popover-custom">
-                            <button data-container=".popover-1"
-                                class="popover-trigger btn btn-custom-blue btn-xs w-100 bnt-wide ml-auto" 
-                                data-toggle="kt-popover" 
-                                data-trigger="focus" 
-                                data-placement="left" 
-                                data-html="true"
-                                data-content='
-                                        <a class="popover-link" href="#">
-                                            <i class="flaticon2-edit font-yellow font-size-md"></i>
-                                            Edit Assessment
-                                        </a>
-                                        <a class="popover-link" href="#">
-                                            <i class="la la-file font-purple font-size-md" style=""></i>
-                                            Copy Assessment
-                                        </a>
-                                        <a class="popover-link" href="#">
-                                            <i class="fa fa-building font-blue font-size-md" style=""></i>
-                                            Archive Assessment
-                                        </a>
-                                        <a class="popover-link" href="#">
-                                            <i class="fa fa-user-alt font-neon-green font-size-md" style=""></i>
-                                            Change Assessment Owner
-                                        </a>
-                                '>
-                                    Actions
-                            </button>
-                        </div>
->>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
                     </td>
                     <td class="ellipsed">Title of it</td>
                     <td></td>
@@ -221,7 +160,6 @@
                         </label>
                     </td>
                     <td>
-<<<<<<< HEAD
                         <div class="dropdown dropright">
                             <button data-toggle="dropdown" class=" btn btn-custom-blue btn-xs w-100">Actions</button>
                             <div class="dropdown-menu dropdown-dark-full dropdown-menu-fit dropdown-menu-right dropdown-menu-anim dropdown-menu-sm">
@@ -242,35 +180,6 @@
                                     Change Assessment Owner
                                 </a>
                             </div>
-=======
-                        <div class="popover-wrapper popover-1 popover-custom">
-                            <button data-container=".popover-1"
-                                class="popover-trigger btn btn-custom-blue btn-xs w-100 bnt-wide ml-auto" 
-                                data-toggle="kt-popover" 
-                                data-trigger="focus" 
-                                data-placement="left" 
-                                data-html="true"
-                                data-content='
-                                        <a class="popover-link" href="#">
-                                            <i class="flaticon2-edit font-yellow font-size-md"></i>
-                                            Edit Assessment
-                                        </a>
-                                        <a class="popover-link" href="#">
-                                            <i class="la la-file font-purple font-size-md" style=""></i>
-                                            Copy Assessment
-                                        </a>
-                                        <a class="popover-link" href="#">
-                                            <i class="fa fa-building font-blue font-size-md" style=""></i>
-                                            Archive Assessment
-                                        </a>
-                                        <a class="popover-link" href="#">
-                                            <i class="fa fa-user-alt font-neon-green font-size-md" style=""></i>
-                                            Change Assessment Owner
-                                        </a>
-                                '>
-                                    Actions
-                            </button>
->>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
                         </div>
                     </td>
                     <td class="ellipsed">Using: (Aerosol) Mechoil - Copy</td>
@@ -291,7 +200,6 @@
                         </label>
                     </td>
                     <td>
-<<<<<<< HEAD
                         <div class="dropdown dropright">
                             <button data-toggle="dropdown" class=" btn btn-custom-blue btn-xs w-100">Actions</button>
                             <div class="dropdown-menu dropdown-dark-full dropdown-menu-fit dropdown-menu-right dropdown-menu-anim dropdown-menu-sm">
@@ -312,35 +220,6 @@
                                     Change Assessment Owner
                                 </a>
                             </div>
-=======
-                        <div class="popover-wrapper popover-1 popover-custom">
-                            <button data-container=".popover-1"
-                                class="popover-trigger btn btn-custom-blue btn-xs w-100 bnt-wide ml-auto" 
-                                data-toggle="kt-popover" 
-                                data-trigger="focus" 
-                                data-placement="left" 
-                                data-html="true"
-                                data-content='
-                                        <a class="popover-link" href="#">
-                                            <i class="flaticon2-edit font-yellow font-size-md"></i>
-                                            Edit Assessment
-                                        </a>
-                                        <a class="popover-link" href="#">
-                                            <i class="la la-file font-purple font-size-md" style=""></i>
-                                            Copy Assessment
-                                        </a>
-                                        <a class="popover-link" href="#">
-                                            <i class="fa fa-building font-blue font-size-md" style=""></i>
-                                            Archive Assessment
-                                        </a>
-                                        <a class="popover-link" href="#">
-                                            <i class="fa fa-user-alt font-neon-green font-size-md" style=""></i>
-                                            Change Assessment Owner
-                                        </a>
-                                '>
-                                    Actions
-                            </button>
->>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
                         </div>
                     </td>
                     <td class="ellipsed">Cleaning the washrooms</td>
@@ -361,7 +240,6 @@
                         </label>
                     </td>
                     <td>
-<<<<<<< HEAD
                         <div class="dropdown dropright">
                             <button data-toggle="dropdown" class=" btn btn-custom-blue btn-xs w-100">Actions</button>
                             <div class="dropdown-menu dropdown-dark-full dropdown-menu-fit dropdown-menu-right dropdown-menu-anim dropdown-menu-sm">
@@ -382,35 +260,6 @@
                                     Change Assessment Owner
                                 </a>
                             </div>
-=======
-                        <div class="popover-wrapper popover-1 popover-custom">
-                            <button data-container=".popover-1"
-                                class="popover-trigger btn btn-custom-blue btn-xs w-100 bnt-wide ml-auto" 
-                                data-toggle="kt-popover" 
-                                data-trigger="focus" 
-                                data-placement="left" 
-                                data-html="true"
-                                data-content='
-                                        <a class="popover-link" href="#">
-                                            <i class="flaticon2-edit font-yellow font-size-md"></i>
-                                            Edit Assessment
-                                        </a>
-                                        <a class="popover-link" href="#">
-                                            <i class="la la-file font-purple font-size-md" style=""></i>
-                                            Copy Assessment
-                                        </a>
-                                        <a class="popover-link" href="#">
-                                            <i class="fa fa-building font-blue font-size-md" style=""></i>
-                                            Archive Assessment
-                                        </a>
-                                        <a class="popover-link" href="#">
-                                            <i class="fa fa-user-alt font-neon-green font-size-md" style=""></i>
-                                            Change Assessment Owner
-                                        </a>
-                                '>
-                                    Actions
-                            </button>
->>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
                         </div>
                     </td>
                     <td class="ellipsed">Using: Kleenist Air Freshener Aerosol</td>
@@ -431,7 +280,6 @@
                         </label>
                     </td>
                     <td>
-<<<<<<< HEAD
                         <div class="dropdown dropright">
                             <button data-toggle="dropdown" class=" btn btn-custom-blue btn-xs w-100">Actions</button>
                             <div class="dropdown-menu dropdown-dark-full dropdown-menu-fit dropdown-menu-right dropdown-menu-anim dropdown-menu-sm">
@@ -452,35 +300,6 @@
                                     Change Assessment Owner
                                 </a>
                             </div>
-=======
-                        <div class="popover-wrapper popover-1 popover-custom">
-                            <button data-container=".popover-1"
-                                class="popover-trigger btn btn-custom-blue btn-xs w-100 bnt-wide ml-auto" 
-                                data-toggle="kt-popover" 
-                                data-trigger="focus" 
-                                data-placement="left" 
-                                data-html="true"
-                                data-content='
-                                        <a class="popover-link" href="#">
-                                            <i class="flaticon2-edit font-yellow font-size-md"></i>
-                                            Edit Assessment
-                                        </a>
-                                        <a class="popover-link" href="#">
-                                            <i class="la la-file font-purple font-size-md" style=""></i>
-                                            Copy Assessment
-                                        </a>
-                                        <a class="popover-link" href="#">
-                                            <i class="fa fa-building font-blue font-size-md" style=""></i>
-                                            Archive Assessment
-                                        </a>
-                                        <a class="popover-link" href="#">
-                                            <i class="fa fa-user-alt font-neon-green font-size-md" style=""></i>
-                                            Change Assessment Owner
-                                        </a>
-                                '>
-                                    Actions
-                            </button>
->>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
                         </div>
                     </td>
                     <td class="ellipsed">Lubricating A Door Hinge</td>
@@ -501,7 +320,6 @@
                         </label>
                     </td>
                     <td>
-<<<<<<< HEAD
                         <div class="dropdown dropright">
                             <button data-toggle="dropdown" class=" btn btn-custom-blue btn-xs w-100">Actions</button>
                             <div class="dropdown-menu dropdown-dark-full dropdown-menu-fit dropdown-menu-right dropdown-menu-anim dropdown-menu-sm">
@@ -522,35 +340,6 @@
                                     Change Assessment Owner
                                 </a>
                             </div>
-=======
-                        <div class="popover-wrapper popover-1 popover-custom">
-                            <button data-container=".popover-1"
-                                class="popover-trigger btn btn-custom-blue btn-xs w-100 bnt-wide ml-auto" 
-                                data-toggle="kt-popover" 
-                                data-trigger="focus" 
-                                data-placement="left" 
-                                data-html="true"
-                                data-content='
-                                        <a class="popover-link" href="#">
-                                            <i class="flaticon2-edit font-yellow font-size-md"></i>
-                                            Edit Assessment
-                                        </a>
-                                        <a class="popover-link" href="#">
-                                            <i class="la la-file font-purple font-size-md" style=""></i>
-                                            Copy Assessment
-                                        </a>
-                                        <a class="popover-link" href="#">
-                                            <i class="fa fa-building font-blue font-size-md" style=""></i>
-                                            Archive Assessment
-                                        </a>
-                                        <a class="popover-link" href="#">
-                                            <i class="fa fa-user-alt font-neon-green font-size-md" style=""></i>
-                                            Change Assessment Owner
-                                        </a>
-                                '>
-                                    Actions
-                            </button>
->>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
                         </div>
                     </td>
                     <td class="ellipsed">Warehouse doors</td>
@@ -571,7 +360,6 @@
                         </label>
                     </td>
                     <td>
-<<<<<<< HEAD
                         <div class="dropdown dropright">
                             <button data-toggle="dropdown" class=" btn btn-custom-blue btn-xs w-100">Actions</button>
                             <div class="dropdown-menu dropdown-dark-full dropdown-menu-fit dropdown-menu-right dropdown-menu-anim dropdown-menu-sm">
@@ -592,35 +380,6 @@
                                     Change Assessment Owner
                                 </a>
                             </div>
-=======
-                        <div class="popover-wrapper popover-1 popover-custom">
-                            <button data-container=".popover-1"
-                                class="popover-trigger btn btn-custom-blue btn-xs w-100 bnt-wide ml-auto" 
-                                data-toggle="kt-popover" 
-                                data-trigger="focus" 
-                                data-placement="left" 
-                                data-html="true"
-                                data-content='
-                                        <a class="popover-link" href="#">
-                                            <i class="flaticon2-edit font-yellow font-size-md"></i>
-                                            Edit Assessment
-                                        </a>
-                                        <a class="popover-link" href="#">
-                                            <i class="la la-file font-purple font-size-md" style=""></i>
-                                            Copy Assessment
-                                        </a>
-                                        <a class="popover-link" href="#">
-                                            <i class="fa fa-building font-blue font-size-md" style=""></i>
-                                            Archive Assessment
-                                        </a>
-                                        <a class="popover-link" href="#">
-                                            <i class="fa fa-user-alt font-neon-green font-size-md" style=""></i>
-                                            Change Assessment Owner
-                                        </a>
-                                '>
-                                    Actions
-                            </button>
->>>>>>> 749107855f157b531b246d1a5295a0397af4e6a1
                         </div>
                     </td>
                     <td class="ellipsed">Using: MOLYKYOTE(R) 3402-C LF ANTI-DEPIS</td>
