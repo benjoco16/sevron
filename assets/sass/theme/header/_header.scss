@@ -1,9 +1,6 @@
 //
 // Header
 //
-
-
-
 // Desktop mode(1024px and above)
 @include kt-desktop() {
 	// Header
@@ -23,10 +20,9 @@
 			display: flex;
 			align-items: stretch;
 			justify-content: space-between;
-
 			&:before,
 			&:after {
-				display: none !important;  
+				display: none !important;
 			}
 		}
 

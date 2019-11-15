@@ -7,7 +7,7 @@
         <?php include('./global/head-global-styles.php') ?>
     </head>
 
-    <body  class="kt-page-content-white kt-quick-panel--right kt-demo-panel--right kt-offcanvas-panel--right kt-header--fixed kt-header-mobile--fixed kt-subheader--enabled kt-subheader--transparent kt-aside--enabled kt-aside--fixed kt-page--loading">
+    <body  class="kt-page-content-white kt-quick-panel--right kt-demo-panel--right kt-offcanvas-panel--right kt-header--fixed kt-header-mobile--fixed kt-subheader--enabled kt-aside--enabled kt-aside--fixed kt-page--loading">
         <!--begin::Header -->
         <?php include('./global/header.php') ?>
         <!--end::Header -->
@@ -21,17 +21,17 @@
                     <?php include('./template/assessment-wizard/aw.subheader.php') ?>
                     <!--end:: Sub Header -->
                     <!-- begin::Page Content -->
-                    <div class="kt-container kt-container--fluid kt-grid__item kt-grid__item--fluid pl-4 pr-4 pt-4 bg-light-blue">
+                    <div class="kt-container kt-container--fluid kt-grid__item kt-grid__item--fluid pt-4 bg-light-blue">
                         <div class="row align-items-start">
                             <div class="col-md-10">
                                 <div class="kt-portlet kt-portlet--head--noborder kt-portlet--height-fluid">
                                     <div class="kt-portlet__body p-0">
-                                        <div class="kt-portlet-spacer"> 
+                                        <div class="kt-portlet--spacer"> 
                                             <?php include('template/assessment-wizard/aw.content-header.php'); ?>
                                             <?php include('template/assessment-wizard/aw.form.php'); ?>
                                         </div>
                                         
-                                        <div class="kt-portlet-spacer bg-light-gray">
+                                        <div class="kt-portlet--spacer bg-light-gray">
                                             <?php include('template/assessment-wizard/accordions/task-one.php')?>
                                             <?php include('template/assessment-wizard/accordions/task-two.php')?>
                                             

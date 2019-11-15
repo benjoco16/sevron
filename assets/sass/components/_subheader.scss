@@ -1,0 +1,17 @@
+.kt-subheader {
+    margin: 0;
+    border-bottom: 2px solid $alto;
+    z-index: 499;
+
+    .kt-subheader__main .btn:not(.dropdown-toggle-split) {
+        margin-right: $spacer;
+        font-size: $font-size-base;
+        padding: $spacer $spacer*2.5;
+    }
+
+    @media screen and (max-width: 1023px) {
+        .kt-subheader__main .btn {
+            padding: $spacer/2 $spacer*2;
+        }
+    }
+}
