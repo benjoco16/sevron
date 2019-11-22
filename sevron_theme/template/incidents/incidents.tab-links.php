@@ -29,6 +29,7 @@
         <div class="tab-content">
             <?php include('./template/incidents/tab.incident-details.php') ?>
             <?php include('./template/incidents/tab.actions.php') ?>
+            <?php include('./template/incidents/tab.attachment.php') ?>
         </div>      
     </div>
 </div>

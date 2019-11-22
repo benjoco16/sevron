@@ -28,12 +28,13 @@
 
     .as-tbl-filters {
         justify-content: center;
+        
+        .switches {
+            margin-top: 20px;
+            padding-left: 0;
+        }
     }
 
-    .as-tbl-filters .switches {
-        margin-top: 20px;
-        padding-left: 0;
-    }
 }
 
 .as-tbl-filters select.form-control {
