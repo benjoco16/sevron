@@ -11,7 +11,7 @@
                     Create New
                 </button>
                 <div class="dropdown-menu dropdown-menu-fit dropdown-menu-md">
-                    <ul class="kt-nav kt-nav--bold kt-nav--md-space kt-margin-t-20 kt-margin-b-20">
+                    <ul class="kt-nav kt-nav--bold kt-nav--md-space">
                         <li class="kt-nav__item">
                             <a class="kt-nav__link active" href="/sevron/pages/maintenance.php">
                                 <span class="kt-nav__link-icon"><i class="flaticon2-user"></i></span>
