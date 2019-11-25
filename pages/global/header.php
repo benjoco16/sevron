@@ -1,7 +1,7 @@
 <div id="kt_header_mobile" class="kt-header-mobile  kt-header-mobile--fixed " >
         <div class="kt-header-mobile__logo">
             <a href="/sevron/pages">
-                <img alt="Logo" src="./assets/media/logos/logo-mobile.png" style="max-width: 40px"/>
+                <img alt="Logo" src="./assets/media/logos/sevron-logo.svg" style="max-width: 120px" />
             </a>
         </div>
         <div class="kt-header-mobile__toolbar">
