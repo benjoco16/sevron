@@ -20,7 +20,7 @@
                             <div class="kt-header__brand " id="kt_header_brand">
                                 <div class="kt-header__brand-logo">
                                     <a href="/sevron/pages">
-                                        <img alt="Logo" src="./assets/media/logos/logo-dark.png" height="40"/>
+                                        <img alt="Logo" src="./assets/media/logos/sevron-logo.svg" height="40" />
                                     </a>		
                                 </div> 
                             </div>
