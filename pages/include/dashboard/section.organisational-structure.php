@@ -10,13 +10,13 @@
         </div>
         <div class="kt-portlet__body dash-org-chart">
             <div class="row">
-                <div class="col-md-10 col-sm-12">
+                <div class="col-md-6 col-sm-12">
                     <div id="stree">
                         <ul>
                             <li class="jstree-open" data-jstree='{ "icon":"fa fa-bookmark red" }'>
                                 Sevron LTD <span class="num">46</span>
                                 <ul>
-                                <li data-jstree='{"icon":"fa fa-bookmark red"}'> <i class="" aria-hidden="true"></i> Cheapest &amp; Test <span class="num">2</span></li>
+                                    <li data-jstree='{"icon":"fa fa-bookmark red"}'> <i class="" aria-hidden="true"></i> Cheapest &amp; Test <span class="num">2</span></li>
                                     <li data-jstree='{"icon":"fa fa-folder font-blue"}'> Cheapestow Lab <img src="./assets/media/dashboard/checkmark-outline.svg" height="15" alt=""/></li>
                                     <li data-jstree='{"icon":"fa fa-folder font-blue"}'> Facilities <img src="./assets/media/dashboard/checkmark-outline.svg" height="15" alt=""/></li>
                                     <li data-jstree='{"icon":"fa fa-folder font-blue"}'> Kings Langle Lab <span class="num">2</span></li>
